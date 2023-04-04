@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Equacao_Segundo_Grau/1.0.0": {
+        "runtime": {
+          "Equacao_Segundo_Grau.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Equacao_Segundo_Grau/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

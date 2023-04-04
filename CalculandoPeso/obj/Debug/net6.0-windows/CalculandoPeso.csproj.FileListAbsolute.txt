@@ -1,0 +1,17 @@
+C:\Users\luanr\Desktop\Windows Forms Faculdade\Exercicios-03-04-2023\CalculandoPeso\bin\Debug\net6.0-windows\CalculandoPeso.exe
+C:\Users\luanr\Desktop\Windows Forms Faculdade\Exercicios-03-04-2023\CalculandoPeso\bin\Debug\net6.0-windows\CalculandoPeso.deps.json
+C:\Users\luanr\Desktop\Windows Forms Faculdade\Exercicios-03-04-2023\CalculandoPeso\bin\Debug\net6.0-windows\CalculandoPeso.runtimeconfig.json
+C:\Users\luanr\Desktop\Windows Forms Faculdade\Exercicios-03-04-2023\CalculandoPeso\bin\Debug\net6.0-windows\CalculandoPeso.dll
+C:\Users\luanr\Desktop\Windows Forms Faculdade\Exercicios-03-04-2023\CalculandoPeso\bin\Debug\net6.0-windows\CalculandoPeso.pdb
+C:\Users\luanr\Desktop\Windows Forms Faculdade\Exercicios-03-04-2023\CalculandoPeso\obj\Debug\net6.0-windows\CalculandoPeso.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\Windows Forms Faculdade\Exercicios-03-04-2023\CalculandoPeso\obj\Debug\net6.0-windows\CalculandoPeso.Form1.resources
+C:\Users\luanr\Desktop\Windows Forms Faculdade\Exercicios-03-04-2023\CalculandoPeso\obj\Debug\net6.0-windows\CalculandoPeso.csproj.GenerateResource.cache
+C:\Users\luanr\Desktop\Windows Forms Faculdade\Exercicios-03-04-2023\CalculandoPeso\obj\Debug\net6.0-windows\CalculandoPeso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\Windows Forms Faculdade\Exercicios-03-04-2023\CalculandoPeso\obj\Debug\net6.0-windows\CalculandoPeso.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\Windows Forms Faculdade\Exercicios-03-04-2023\CalculandoPeso\obj\Debug\net6.0-windows\CalculandoPeso.AssemblyInfo.cs
+C:\Users\luanr\Desktop\Windows Forms Faculdade\Exercicios-03-04-2023\CalculandoPeso\obj\Debug\net6.0-windows\CalculandoPeso.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\Windows Forms Faculdade\Exercicios-03-04-2023\CalculandoPeso\obj\Debug\net6.0-windows\CalculandoPeso.dll
+C:\Users\luanr\Desktop\Windows Forms Faculdade\Exercicios-03-04-2023\CalculandoPeso\obj\Debug\net6.0-windows\refint\CalculandoPeso.dll
+C:\Users\luanr\Desktop\Windows Forms Faculdade\Exercicios-03-04-2023\CalculandoPeso\obj\Debug\net6.0-windows\CalculandoPeso.pdb
+C:\Users\luanr\Desktop\Windows Forms Faculdade\Exercicios-03-04-2023\CalculandoPeso\obj\Debug\net6.0-windows\CalculandoPeso.genruntimeconfig.cache
+C:\Users\luanr\Desktop\Windows Forms Faculdade\Exercicios-03-04-2023\CalculandoPeso\obj\Debug\net6.0-windows\ref\CalculandoPeso.dll
